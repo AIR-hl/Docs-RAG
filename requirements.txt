@@ -1,0 +1,12 @@
+langchain
+langchain-qdrant
+langchain-community
+langchain-openai
+dashscope
+openai
+pandas
+langchain-text-splitters
+qdrant-client
+requests
+dataclasses
+langchain-core
